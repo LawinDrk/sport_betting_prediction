@@ -1,0 +1,2 @@
+n_estimators,max_depth,random_state,seuil_confiance,nb_paris,win_rate,profit,roi,capital_final
+100,5,42,0.0,304,57.89,44.84,7.02,144.84
