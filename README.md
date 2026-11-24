@@ -1,8 +1,5 @@
 # ⚽ Simulation and Evaluation of Sports Betting Strategies
 
-[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
 
 Projet académique de Master 1 Informatique (Université de Caen Normandie) visant à modéliser, backtester et évaluer la viabilité financière de différentes stratégies de paris sportifs sur la Premier League anglaise face à la marge structurelle des bookmakers (*overround*).
 
